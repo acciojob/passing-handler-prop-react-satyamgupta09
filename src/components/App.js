@@ -1,5 +1,6 @@
 import React, { useState } from "react";
-import "./child.css";
+import "./../styles/Child.css";
+import "./../styles/App.css";
 import Selection from "./Selection";
 import ColourSelector from "./ColourSelector";
 
